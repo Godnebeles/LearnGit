@@ -1,5 +1,5 @@
 print('HelloWorld')
-
+print("lol")
 
 class PrintHelloW(object):
 	def PrintHelloWorldIntRaz(i):
