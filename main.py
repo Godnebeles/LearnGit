@@ -2,7 +2,9 @@ print('HelloWorld')
 <<<<<<< HEAD
 Print("GoodBye, World")
 =======
-
+class Human(name, age):
+	name = 100
+	age = Oleg
 
 class PrintHelloW(object):
 	def PrintHelloWorldIntRaz(i):
